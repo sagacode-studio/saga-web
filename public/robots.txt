@@ -1,0 +1,11 @@
+# SagaCode Web
+
+User-agent: *
+Allow: /
+Sitemap: https://sagacode.studio/sitemap.xml
+
+# Disallow
+Disallow: /api/
+
+# Crawl-delay
+Crawl-delay: 1
