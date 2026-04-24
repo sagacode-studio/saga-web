@@ -1,1 +1,0 @@
-@Programmer dan @Designer, buatkan file SKILLS.md. Tuliskan teknologi apa saja yang kalian kuasai sesuai Tech Stack kita (Next.js 14, Tailwind, dll) dan bagaimana standar koding yang harus kalian ikuti agar tidak ada kode yang berantakan (AI Slop).

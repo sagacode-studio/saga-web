@@ -11,9 +11,9 @@ export default function Home() {
       <Hero />
       <FeaturesSection />
       <TestimonialsSection />
+      <CTASection />
       <NewsletterSection />
       <SocialSection />
-      <CTASection />
     </>
   );
 }
